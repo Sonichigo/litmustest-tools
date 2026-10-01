@@ -14,7 +14,7 @@ require (
 )
 
 require (
-	github.com/argoproj/argo-workflows/v3 v3.7.14 // indirect
+	github.com/argoproj/argo-workflows/v3 v3.7.15 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/emicklei/go-restful/v3 v3.13.0 // indirect
 	github.com/fatih/color v1.18.0 // indirect
